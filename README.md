@@ -1,3 +1,6 @@
+
+<h1 align="center">Hi 👋, I'm Sahil Shendurkar</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Vidly an imaginary video rental app<br>🌱 I’m currently learning Node.js and AWS<br>💬 Ask me about Frontend and Web Technologies<br>🚀 Space Geek: When I'm not coding, you might find me stargazing or reading about space exploration. The mysteries of the cosmos fascinate me endlessly.
 
