@@ -31,9 +31,7 @@ I'm a passionate and dedicated student with a flair for coding and a hunger for 
 
 📚 Currently, I'm exploring the world of Node.js and diving deeper into the backend realm. My journey started as a frontend developer, but I've discovered a newfound passion for backend development. The ability to architect robust systems and handle data at scale has captivated my interest, and I'm excited to embrace this new aspect of development.
 
-🎯 My goal is to leverage my skills in both frontend and backend technologies to create meaningful and impactful projects, contributing positively to the ever-evolving tech landscape. I'm a strong believer in teamwork and am excited to collaborate with like-minded individuals and organizations to bring innovative ideas to life.
-
-As I continue to learn and grow, I'm eager to take on challenges and push the boundaries of what I can achieve with code. So, join me on this exciting journey as we explore the world of programming together! Feel free to explore my repositories and get in touch if you want to collaborate or just have a chat. Let's code, create, and make a difference! 🌟  
+🎯 My goal is to leverage my skills in both frontend and backend technologies to create meaningful and impactful projects, contributing positively to the ever-evolving tech landscape. I'm a strong believer in teamwork and am excited to collaborate with like-minded individuals and organizations to bring innovative ideas to life
   
 
 <br/>  
