@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend challenges from Frontend mentor<br>👯 I’m looking to collaborate on Web D projects<br>🌱 I’m currently learning Node.js, AWS and React in Depth<br>💬 Ask me about Frontend and Web Technologies<br>⚡ Fun fact  When I'm not coding, you might find me stargazing or reading about space exploration. The mysteries of the cosmos fascinate me endlessly.<br>
+🔭 I’m currently on the voyage of WEB D<br>👯 I’m looking to collaborate on Web D projects<br>🌱 I’m currently learning Node.js, AWS and React in Depth<br>💬 Ask me about Frontend and Web Technologies<br>⚡ Fun fact  When I'm not coding, you might find me stargazing or reading about space exploration. The mysteries of the cosmos fascinate me endlessly.<br>
 
 
 ## 🌐 Socials:
